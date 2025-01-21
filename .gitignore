@@ -13,3 +13,6 @@ blazedemo ide/target/maven-status/maven-compiler-plugin/compile/default-compile/
 blazedemo ide/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
 blazedemo ide/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 blazedemo ide/target/test-classes/CompradepassagemTest.class
+
+#fim
+.gitignore
